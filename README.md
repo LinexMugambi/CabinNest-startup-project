@@ -107,3 +107,4 @@ Feel free to contact me with any questions or feedback!
 
 This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. His teaching style and guidance were instrumental in helping me build this project and learn Next.js at a deeper level. Huge thanks to Jonas for making the learning experience enjoyable and impactful.
 Update README.md with info 3
+Update README.md with info 8
