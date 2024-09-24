@@ -13,9 +13,9 @@
   <div align="center">
     <a href="https://the-wild-oasis-booking-alamin.vercel.app">View website</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis-Booking/issues">Report Bug</a>
+    <a href="https://github.com/LinexMugambi/The-Wild-Oasis-Booking/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis-Booking/pulls">Request Feature</a>
+    <a href="https://github.com/LinexMugambi/The-Wild-Oasis-Booking/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -25,8 +25,8 @@
 <!-- Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/CodePapa360)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CodePapa360?style=for-the-badge&logo=x)](https://x.com/CodePapa360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/LinexMugambi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LinexMugambi?style=for-the-badge&logo=x)](https://x.com/LinexMugambi)
 
 ![status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
@@ -34,7 +34,7 @@
 
 <!-- Brief -->
 <p align="center">
-Welcome to <b>The Wild Oasis</b>! This is the customer version of the <a href="https://github.com/CodePapa360/The-Wild-Oasis">hotel management</a> web app, where users can view and book cabins based on availability, manage their bookings, and update their profiles. This project was a great learning experience for me as I explored Next.js, Auth.js (NextAuth), and many other advanced techniques.
+Welcome to <b>The Wild Oasis</b>! This is the customer version of the <a href="https://github.com/LinexMugambi/The-Wild-Oasis">hotel management</a> web app, where users can view and book cabins based on availability, manage their bookings, and update their profiles. This project was a great learning experience for me as I explored Next.js, Auth.js (NextAuth), and many other advanced techniques.
 </p>
 
 <!-- Screenshot -->
@@ -50,7 +50,7 @@ Check out the live app here: [The Wild Oasis - Booking](https://the-wild-oasis-b
 
 ## Admin Version
 
-I also built an **admin version** of this app for hotel employees to manage cabins, bookings, and guests. The repository is [here](https://github.com/CodePapa360/The-Wild-Oasis), and the live site is [here](https://the-wild-oasis-alamin.vercel.app).
+I also built an **admin version** of this app for hotel employees to manage cabins, bookings, and guests. The repository is [here](https://github.com/LinexMugambi/The-Wild-Oasis), and the live site is [here](https://the-wild-oasis-alamin.vercel.app).
 
 ## Features
 
@@ -79,14 +79,14 @@ To run this project locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/CodePapa360/The-Wild-Oasis-Booking.git
+   git clone https://github.com/LinexMugambi/The-Wild-Oasis-Booking.git
    ```
 2. Install dependencies:
    ```bash
    npm install
    ```
 3. Set up environment variables:
-   - You’ll need to configure Supabase and NextAuth (Google sign-in). Add your environment variables in a `.env.local` file. Check out the `.env.local.example` for what you need to include.
+   - You'll need to configure Supabase and NextAuth (Google sign-in). Add your environment variables in a `.env.local` file. Check out the `.env.local.example` for what you need to include.
 4. Run the development server:
    ```bash
    npm run dev
@@ -95,28 +95,11 @@ To run this project locally:
 
 ### Author
 
-<b>👤 Alamin</b>
+<b>👤 Linex Mugambi</b>
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- GitHub - [@CodePapa360](https://github.com/codepapa360)
+- LinkedIn - [@LinexMugambi](https://www.linkedin.com/in/LinexMugambi)
+- Twitter - [@LinexMugambi](https://www.twitter.com/LinexMugambi)
+- GitHub - [@LinexMugambi](https://github.com/LinexMugambi)
 
 Feel free to contact me with any questions or feedback!
 
-### Acknowledgments
-
-This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) by **Jonas Schmedtmann**. His teaching style and guidance were instrumental in helping me build this project and learn Next.js at a deeper level. Huge thanks to Jonas for making the learning experience enjoyable and impactful.
-Update README.md with info 3
-Update README.md with info 8
-Update README.md with info 13
-Update README.md with info 18
-Update README.md with info 23
-Update README.md with info 28
-Update README.md with info 33
-Update README.md with info 38
-Update README.md with info 43
-Update README.md with info 48
-Update README.md with info 53
-Update README.md with info 58
-Update README.md with info 63
-Update README.md with info 68
